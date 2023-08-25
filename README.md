@@ -1,6 +1,6 @@
 # Three European paleoforests of the late Neogene-early Quaternary
-_Supplementary material from "Plant-insect interactions patterns in three European paleoforests of the late-Neogene—early-Quaternary"
-_
+## _Supplementary material from "Plant-insect interactions patterns in three European paleoforests of the late-Neogene—early-Quaternary"_
+
 **Reference**
 Adroit B, Girard V, Kunzmann L, Terral J, Wappler T. 2018. Plant-insect interactions patterns in three European paleoforests of the late-Neogene—early-Quaternary. PeerJ 6:e5075
 DOI: https://doi.org/10.7717/peerj.5075
